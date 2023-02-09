@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\Digital Cost Center Management.exe.config
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\Digital Cost Center Management.exe
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\Digital Cost Center Management.pdb
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\Digital Cost Center Management.xml
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\MySql.Data.dll
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Release\MySql.Data.xml
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_add_user.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_awards.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_educational_background.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_employee_profile.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_employment_history.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_add_vehicle.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_job_title.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_previous_position.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_report_employee.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_sales_tagging.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_search_employee.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.frm_add_employee.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_search_vehicle.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_seminar.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_separation_detail.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Frm_tag_vehicle.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.LoginForm1.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.MDIParent1.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital_Cost_Center_Management.Resources.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.vbproj.CopyComplete
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.exe
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.xml
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Release\Digital Cost Center Management.pdb

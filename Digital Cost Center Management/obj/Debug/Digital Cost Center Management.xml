@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Digital Cost Center Management
+</name>
+</assembly>
+<members>
+<member name="T:Digital_Cost_Center_Management.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.background_newadd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.finance_logo_40pix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_active_state_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_add_key_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_add_new_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_add_property_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_cancel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_delete_ticket_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_in_transit_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_inactive_state_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_key_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_key_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_laptop_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_microsoft_excel_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_microsoft_excel_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_person_16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_person_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_plus_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_plus_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_restart_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_restart_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_save_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_search_30">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_search_50">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_server_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_stack_of_money_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_table_40">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.icons8_trash_can_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.Login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Digital_Cost_Center_Management.My.Resources.Resources.profpicdefault">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

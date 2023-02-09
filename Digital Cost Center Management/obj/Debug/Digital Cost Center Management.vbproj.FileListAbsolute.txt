@@ -1,0 +1,116 @@
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.exe.config
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.exe
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.pdb
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.xml
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_employee_profile.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_report_employee.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.MDIParent1.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Resources.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.CopyComplete
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.exe
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.xml
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.pdb
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_Add.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Antivirus.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_masterdata_IT_brand.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_MS_Office.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_OS.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_PG_Code.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Status.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Type.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Vendor.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Awards.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Educational_Background.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Employment_History.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Add.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Job_Title.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_previous_position.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Sales_Tagging.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Search_Employee.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Add.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_Search.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Search.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Seminar.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Separation_Detail.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_PAR.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Tag.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_UNPAR.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Login.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Branch.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_CPC.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Department.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Educational_Attainment.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Job_Class.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Status.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Type.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Fleet_Vehicle_Type.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Vendor.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_PHONE.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_User_Register.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_PINS.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Area_Rate.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Software.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Software_Optional.resources
+C:\Users\Asus\Desktop\Digital Cost Center Management\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Area_Rate_Backup.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.exe.config
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.exe
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.pdb
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\bin\Debug\Digital Cost Center Management.xml
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbprojAssemblyReference.cache
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.ResolveComReference.cache
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_Add.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Branch.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_CPC.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Department.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Educational_Attainment.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Job_Class.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Status.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Type.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Area_Rate.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Area_Rate_Backup.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_PHONE.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_PINS.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Finance_BIX_Vendor.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Fleet_Vehicle_Type.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Antivirus.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_masterdata_IT_brand.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_MS_Office.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_OS.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_PG_Code.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Software.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Software_Optional.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Status.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Type.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_IT_Vendor.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_User_Register.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Awards.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Educational_Background.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_employee_profile.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Employment_History.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Add.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Masterdata_Employee_Job_Title.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_previous_position.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_report_employee.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Sales_Tagging.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Search_Employee.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Add.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_Search.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Search.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Seminar.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Employee_Separation_Detail.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_PAR.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_Fleet_Tag.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Frm_IT_UNPAR.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Login.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.MDIParent1.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital_Cost_Center_Management.Resources.resources
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.GenerateResource.cache
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.CoreCompileInputs.cache
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.vbproj.CopyComplete
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.exe
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.xml
+D:\OGDI Project 2018-2019\DiCom\Digital Cost Center Management April 3 2019\Digital Cost Center Management\obj\Debug\Digital Cost Center Management.pdb

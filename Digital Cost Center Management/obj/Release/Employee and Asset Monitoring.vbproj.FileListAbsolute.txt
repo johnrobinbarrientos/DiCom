@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\Employee and Asset Monitoring.exe.config
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\Employee and Asset Monitoring.exe
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\Employee and Asset Monitoring.pdb
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\Employee and Asset Monitoring.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\MySql.Data.dll
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Release\MySql.Data.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee_and_Asset_Monitoring.Frm_search_employee.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee_and_Asset_Monitoring.frm_add_employee.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee_and_Asset_Monitoring.LoginForm1.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee_and_Asset_Monitoring.MDIParent1.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee_and_Asset_Monitoring.Resources.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.vbproj.CopyComplete
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.exe
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Release\Employee and Asset Monitoring.pdb

@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Debug\Employee and Asset Monitoring.exe.config
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Debug\Employee and Asset Monitoring.exe
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Debug\Employee and Asset Monitoring.pdb
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Debug\Employee and Asset Monitoring.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.vbprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.LoginForm1.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Resources.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.exe
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.pdb
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.MDIParent1.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.frm_add_employee.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\bin\Debug\MySql.Data.xml
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.vbproj.CopyComplete
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_search_employee.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_employee_profile.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee and Asset Monitoring.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_sales_tagging.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_awards.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_seminar.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_separation_detail.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_previous_position.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_educational_background.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_employment_history.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_add_vehicle.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_search_vehicle.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_tag_vehicle.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_job_title.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_add_user.resources
+C:\Users\Asus\Desktop\Employee and Asset Monitoring\Employee and Asset Monitoring\obj\Debug\Employee_and_Asset_Monitoring.Frm_report_employee.resources

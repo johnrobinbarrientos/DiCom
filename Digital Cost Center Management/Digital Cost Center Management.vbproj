@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B034938-5F2C-40B5-A4CD-18F63EB7A80C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Digital_Cost_Center_Management.My.MyApplication</StartupObject>
+    <RootNamespace>Digital_Cost_Center_Management</RootNamespace>
+    <AssemblyName>Digital Cost Center Management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Digital Cost Center Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Digital Cost Center Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>finance_logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.12.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_IT_Add.Designer.vb">
+      <DependentUpon>Frm_IT_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_IT_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Area_Rate.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Area_Rate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Area_Rate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Area_Rate_Backup.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Area_Rate_Backup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Area_Rate_Backup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_PINS.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_PINS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_PINS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Branch.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Branch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Branch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_CPC.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_CPC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_CPC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Department.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Department.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Department.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Educational_Attainment.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Educational_Attainment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Educational_Attainment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Job_Class.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Job_Class.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Job_Class.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Status.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Type.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_PHONE.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_PHONE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_PHONE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Vendor.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Vendor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Finance_BIX_Vendor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Fleet_Vehicle_Type.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Fleet_Vehicle_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Fleet_Vehicle_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Antivirus.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Antivirus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Antivirus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_MS_Office.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_MS_Office.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_MS_Office.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_PG_Code.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_PG_Code.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_PG_Code.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Software.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Software.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Software.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Status.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Type.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Vendor.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Vendor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Vendor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_OS.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_OS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_OS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Software_Optional.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Software_Optional.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Software_Optional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_User_Register.Designer.vb">
+      <DependentUpon>Frm_Masterdata_User_Register.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_User_Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Awards.Designer.vb">
+      <DependentUpon>Frm_Employee_Awards.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Awards.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Add.Designer.vb">
+      <DependentUpon>Frm_Employee_Add.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Educational_Background.Designer.vb">
+      <DependentUpon>Frm_Employee_Educational_Background.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Educational_Background.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Profile.Designer.vb">
+      <DependentUpon>Frm_Employee_Profile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Employment_History.Designer.vb">
+      <DependentUpon>Frm_Employee_Employment_History.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Employment_History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Fleet_Add.Designer.vb">
+      <DependentUpon>Frm_Fleet_Add.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Fleet_Add.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Job_Title.Designer.vb">
+      <DependentUpon>Frm_Masterdata_Employee_Job_Title.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_Employee_Job_Title.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Brand.Designer.vb">
+      <DependentUpon>Frm_Masterdata_IT_Brand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Masterdata_IT_Brand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Previous_Position.Designer.vb">
+      <DependentUpon>Frm_Employee_Previous_Position.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Previous_Position.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Report_Employee.Designer.vb">
+      <DependentUpon>Frm_Report_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Report_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Sales_Tagging.Designer.vb">
+      <DependentUpon>Frm_Employee_Sales_Tagging.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Sales_Tagging.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Search_Employee.Designer.vb">
+      <DependentUpon>Frm_Employee_Search_Employee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Search_Employee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_IT_Search.Designer.vb">
+      <DependentUpon>Frm_IT_Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_IT_Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Fleet_Search.Designer.vb">
+      <DependentUpon>Frm_Fleet_Search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Fleet_Search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Seminar.Designer.vb">
+      <DependentUpon>Frm_Employee_Seminar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Seminar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Employee_Separation_Detail.Designer.vb">
+      <DependentUpon>Frm_Employee_Separation_Detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Employee_Separation_Detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_IT_PAR.Designer.vb">
+      <DependentUpon>Frm_IT_PAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_IT_PAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Fleet_Tag.Designer.vb">
+      <DependentUpon>Frm_Fleet_Tag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Fleet_Tag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_IT_UNPAR.Designer.vb">
+      <DependentUpon>Frm_IT_UNPAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_IT_UNPAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Frm_IT_Add.resx">
+      <DependentUpon>Frm_IT_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Branch.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Branch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_CPC.resx">
+      <DependentUpon>Frm_Masterdata_Employee_CPC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Department.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Department.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Educational_Attainment.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Educational_Attainment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Job_Class.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Job_Class.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Status.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Type.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Finance_BIX_Area_Rate.resx">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Area_Rate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Finance_BIX_Area_Rate_Backup.resx">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Area_Rate_Backup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Finance_BIX_PHONE.resx">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_PHONE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Finance_BIX_PINS.resx">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_PINS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Finance_BIX_Vendor.resx">
+      <DependentUpon>Frm_Masterdata_Finance_BIX_Vendor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Fleet_Vehicle_Type.resx">
+      <DependentUpon>Frm_Masterdata_Fleet_Vehicle_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Antivirus.resx">
+      <DependentUpon>Frm_Masterdata_IT_Antivirus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Brand.resx">
+      <DependentUpon>Frm_Masterdata_IT_Brand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_MS_Office.resx">
+      <DependentUpon>Frm_Masterdata_IT_MS_Office.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_OS.resx">
+      <DependentUpon>Frm_Masterdata_IT_OS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_PG_Code.resx">
+      <DependentUpon>Frm_Masterdata_IT_PG_Code.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Software.resx">
+      <DependentUpon>Frm_Masterdata_IT_Software.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Software_Optional.resx">
+      <DependentUpon>Frm_Masterdata_IT_Software_Optional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Status.resx">
+      <DependentUpon>Frm_Masterdata_IT_Status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Type.resx">
+      <DependentUpon>Frm_Masterdata_IT_Type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_IT_Vendor.resx">
+      <DependentUpon>Frm_Masterdata_IT_Vendor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_User_Register.resx">
+      <DependentUpon>Frm_Masterdata_User_Register.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Awards.resx">
+      <DependentUpon>Frm_Employee_Awards.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Educational_Background.resx">
+      <DependentUpon>Frm_Employee_Educational_Background.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Profile.resx">
+      <DependentUpon>Frm_Employee_Profile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Employment_History.resx">
+      <DependentUpon>Frm_Employee_Employment_History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Fleet_Add.resx">
+      <DependentUpon>Frm_Fleet_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Masterdata_Employee_Job_Title.resx">
+      <DependentUpon>Frm_Masterdata_Employee_Job_Title.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Previous_Position.resx">
+      <DependentUpon>Frm_Employee_Previous_Position.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Report_Employee.resx">
+      <DependentUpon>Frm_Report_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Sales_Tagging.resx">
+      <DependentUpon>Frm_Employee_Sales_Tagging.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Search_Employee.resx">
+      <DependentUpon>Frm_Employee_Search_Employee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Add.resx">
+      <DependentUpon>Frm_Employee_Add.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_IT_Search.resx">
+      <DependentUpon>Frm_IT_Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Fleet_Search.resx">
+      <DependentUpon>Frm_Fleet_Search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Seminar.resx">
+      <DependentUpon>Frm_Employee_Seminar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Employee_Separation_Detail.resx">
+      <DependentUpon>Frm_Employee_Separation_Detail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_IT_PAR.resx">
+      <DependentUpon>Frm_IT_PAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Fleet_Tag.resx">
+      <DependentUpon>Frm_Fleet_Tag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_IT_UNPAR.resx">
+      <DependentUpon>Frm_IT_UNPAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-plus-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_newadd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profpicdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="finance_logo.ico" />
+    <None Include="Resources\finance logo 40pix.jpg" />
+    <None Include="Resources\icons8-microsoft-excel-30.png" />
+    <None Include="Resources\icons8-plus-30.png" />
+    <None Include="Resources\icons8-restart-30.png" />
+    <None Include="Resources\icons8-key-30.png" />
+    <None Include="Resources\icons8-add-key-16.png" />
+    <None Include="Resources\icons8-delete-ticket-30.png" />
+    <None Include="Resources\icons8-person-30.png" />
+    <None Include="Resources\icons8-add-new-30.png" />
+    <None Include="Resources\icons8-inactive-state-48.png" />
+    <None Include="Resources\icons8-active-state-48.png" />
+    <None Include="Resources\icons8-trash-can-48.png" />
+    <None Include="Resources\icons8-cancel-30.png" />
+    <None Include="Resources\icons8-save-30.png" />
+    <None Include="Resources\icons8-restart-48.png" />
+    <None Include="Resources\icons8-stack-of-money-48.png" />
+    <None Include="Resources\icons8-key-40.png" />
+    <None Include="Resources\icons8-server-64.png" />
+    <None Include="Resources\icons8-table-40.png" />
+    <None Include="Resources\icons8-laptop-48.png" />
+    <None Include="Resources\icons8-add-property-48.png" />
+    <None Include="Resources\icons8-in-transit-48.png" />
+    <None Include="Resources\icons8-person-16.png" />
+    <None Include="Resources\icons8-search-30.png" />
+    <None Include="Resources\icons8-microsoft-excel-48.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
